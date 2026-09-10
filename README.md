@@ -69,4 +69,4 @@ An end-to-end testing project for the **Dojo** web application (`dojo.upexgalaxy
 ## 👤 Author
 
 **Abdallah Ahmed Meaad** — QA / QC Engineer (Manual & Automation Testing)
-[LinkedIn](https://www.linkedin.com/in/abdallah-meaad) • [GitHub](https://github.com/ABdallahMEaad) • [Portfolio](https://abdallahmeaad.github.io/My_CV)
+[LinkedIn](https://www.linkedin.com/in/abdallah-meaad)  • [Portfolio](https://abdallahmeaad.github.io/My_CV)
