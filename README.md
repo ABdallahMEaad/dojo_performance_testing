@@ -57,8 +57,7 @@ An end-to-end testing project for the **Dojo** web application (`dojo.upexgalaxy
    ```
 3. Update the CSV Data Set Config paths for `registered_users.csv`, `shipping-information.csv`, and `create_task.csv` to match your local file locations
 4. Review results in the **Summary Report** / **Graph Results** listeners, or open the generated HTML dashboard report (`report/index.html` if run headless)
-##  website Link 
-https://dojo.upexgalaxy.com/
+
 
 ## 🛠️ Tech Stack
 
